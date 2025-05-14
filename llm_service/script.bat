@@ -1,1 +1,1 @@
-uvicorn ollama:app --reload --port 8001
+uvicorn openaitp:app --reload --port 8001
